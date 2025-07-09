@@ -18,16 +18,16 @@ const About = () => {
               <div className="about-content">
                 <div className="section-header text-left">
                   <p>Learn About Me</p>
-                  <h2>Web Developer for Half a Decade</h2>
+                  <h2>Pascal Obiwumma – Building the Web, One Pixel at a Time</h2>
                 </div>
                 <div className="about-text">
                   <h1>Hello!</h1>
                   <p>
-                    I'm Pascal Obiwumma, I'm a front-end developer based in FCT, Nigeria. My interest in web development began back in 2019 when I decided to build a website for a school project and in that way, learned a lot about HTML and CSS.
+                    I'm Pascal Obiwumma, I'm a front-end developer based in FCT, Nigeria. My interest in web development began back in 2020 when I decided to build a website for a school project and in that way, learned a lot about HTML and CSS.
                   </p>
                   <p>
-                    I have developed many types of front-ends from well known web app clones to advanced developer platforms. I work with both companies, startups and individuals.
-                    I'm passionate about advanced, cutting edge, fully innovative and interactive websites to help develop the country and the world.
+                    What began as curiosity has grown into a professional passion for creating accessible, performant web experiences.
+                    I've built everything from polished  web app clones to advanced platforms crafting digital experiences for startups, businesses, and individual clients alike.  My passion? Creating cutting-edge, interactive websites that push boundaries and drive progress both for Nigeria's tech ecosystem and the global digital landscape.
                   </p>
                 </div>
                 <div className="skills">
