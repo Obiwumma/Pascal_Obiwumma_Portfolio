@@ -26,7 +26,7 @@ const About = () => {
                     I'm Pascal Obiwumma, I'm a front-end developer based in FCT, Nigeria. My interest in web development began back in 2020 when I decided to build a website for a school project and in that way, learned a lot about HTML and CSS.
                   </p>
                   <p>
-                    What began as curiosity has grown into a professional passion for creating accessible, performant web experiences.
+                    What began as curiosity has grown into a passion.
                     I've built everything from polished  web app clones to advanced platforms crafting digital experiences for startups, businesses, and individual clients alike.  My passion? Creating cutting-edge, interactive websites that push boundaries and drive progress both for Nigeria's tech ecosystem and the world.
                   </p>
                 </div>
