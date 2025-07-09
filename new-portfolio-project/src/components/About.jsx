@@ -27,7 +27,7 @@ const About = () => {
                   </p>
                   <p>
                     What began as curiosity has grown into a professional passion for creating accessible, performant web experiences.
-                    I've built everything from polished  web app clones to advanced platforms crafting digital experiences for startups, businesses, and individual clients alike.  My passion? Creating cutting-edge, interactive websites that push boundaries and drive progress both for Nigeria's tech ecosystem and the global digital landscape.
+                    I've built everything from polished  web app clones to advanced platforms crafting digital experiences for startups, businesses, and individual clients alike.  My passion? Creating cutting-edge, interactive websites that push boundaries and drive progress both for Nigeria's tech ecosystem and the world.
                   </p>
                 </div>
                 <div className="skills">
