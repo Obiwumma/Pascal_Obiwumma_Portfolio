@@ -40,7 +40,7 @@ function App() {
   // Back To Top
 
   useEffect(() => {
-  const backToTop = document.querySelector('.back-to-top');
+  const backToTop = document.querySelector('.back-to-top') as HTMLElement;
   const handleScroll = () => {
     if (window.scrollY > 300) {
       backToTop.style.display = 'block';
