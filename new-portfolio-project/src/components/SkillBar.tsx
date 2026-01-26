@@ -1,13 +1,19 @@
-import React from "react";
 import { useEffect } from "react";
 
-const SkillBar = ({ name, level, color }) => {
+interface skillBarProps {
+  name : string;
+  level: number;
+  color: string
+
+}
+const SkillBar = ({ name, level, color }: skillBarProps) => {
 
   useEffect(() => {
   // This will trigger the CSS transition when component mounts
   const progressBars = document.querySelectorAll('.progress-bar');
-  progressBars.forEach(bar => {
-    bar.style.width = bar.style.getPropertyValue('--target-width');
+  progressBars.forEach((bar) => {
+    const element = bar as HTMLElement; 
+    element.style.width = element.style.getPropertyValue('--target-width');
   });
 }, []);
 
@@ -20,11 +26,11 @@ const SkillBar = ({ name, level, color }) => {
       <div className="progress-bar-container">
         <div 
           className="progress-bar" 
-          style={{
+          style ={{
             width: `${level}%`,
             backgroundColor: color,
             '--target-width': `${level}%`
-          }}
+          } as React.CSSProperties } 
         ></div>
       </div>
     </div>
