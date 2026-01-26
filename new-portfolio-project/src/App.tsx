@@ -9,10 +9,6 @@ import Projects from './components/Projects.jsx';
 import Contact from './components/Contact.js';
 import Footer from './components/Footer.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'jquery';
-import 'popper.js';
-import 'bootstrap/dist/js/bootstrap.min.js';
-
 import './App.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css'
