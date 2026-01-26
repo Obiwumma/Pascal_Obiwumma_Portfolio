@@ -61,25 +61,28 @@ useEffect(() => {
 }, []);
 
   return (
-    <Suspense fallback = {
-      <div id="loader" className="show">
-        <div className="loader"></div>
-      </div>
-    }>
-      {/* Loader should be at the very top */}
-
+    <>
       <Navbar />
       <Hero />
-      <About />
-      <Service />
-      <Experience />
-      <Projects />
-      <Contact />
-      <Footer />
+      
+      <Suspense fallback = {
+        <div id="loader" className="show">
+          <div className="loader"></div>
+        </div>
+      }>
+        {/* Loader should be at the very top */}
 
-      {/* Back to top button */}
-      <a href="#" className="btn back-to-top"><i className="fa fa-chevron-up"></i></a>
-    </Suspense>
+        <About />
+        <Service />
+        <Experience />
+        <Projects />
+        <Contact />
+        <Footer />
+
+        {/* Back to top button */}
+        <a href="#" className="btn back-to-top"><i className="fa fa-chevron-up"></i></a>
+      </Suspense>
+    </>
   );
 }
 
