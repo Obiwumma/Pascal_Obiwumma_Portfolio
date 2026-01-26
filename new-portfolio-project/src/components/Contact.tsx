@@ -5,9 +5,9 @@ const Contact = () => {
 
   const [messageSent, setMessageSent] = useState(false);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const form = e.target;
+    const form = e.currentTarget;
 
     fetch(form.action, {
       method: form.method,
