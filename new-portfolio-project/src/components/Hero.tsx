@@ -31,7 +31,7 @@ const Hero = () => {
             </div>
             <div className="col-sm-12 col-md-6 d-none d-md-block">
               <div className="hero-image">
-                <img height="400px" src="/assets/developer.jpg" alt="Hero" />
+                <img height="400px" src="/assets/developer.webp" alt="Hero" />
               </div>
             </div>
           </div>
