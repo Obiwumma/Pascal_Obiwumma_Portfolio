@@ -80,11 +80,11 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/netflix.PNG" alt="Project" />
+                  <img src="/assets/EstateHub.PNG" alt="Project" />
                 </div>
                 <div className="portfolio-text">
-                  <h3>Netflix Clone</h3>
-                  <a className="btn" href="https://netflix-clone-project-beryl.vercel.app/" target="_blank" rel="noopener noreferrer">+</a>
+                  <h3>EstateHub</h3>
+                  <a className="btn" href="https://estate-hub-green.vercel.app/" target="_blank" rel="noopener noreferrer">+</a>
                 </div>
               </div>
             </div>
