@@ -102,7 +102,7 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/expense-tracker.PNG" alt="Project" />
+                  {/* <img src="/assets/expense-tracker.PNG" alt="Project" /> */}
                 </div>
                 <div className="portfolio-text">
                   <h3>Product List Cart</h3>
