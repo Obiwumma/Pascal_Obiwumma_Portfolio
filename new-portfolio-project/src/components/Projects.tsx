@@ -14,7 +14,7 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-1 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/sidehustle.PNG" alt="Project" />
+                  <img src="/assets/sidehustle.webp" alt="Project" />
                 </div>
                 <div className="portfolio-text">
                   <h3>Side Hustle Clone</h3>
@@ -80,7 +80,7 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/EstateHub.PNG" alt="Project" />
+                  <img src="/assets/EstateHub.webp" alt="Project" />
                 </div>
                 <div className="portfolio-text">
                   <h3>EstateHub</h3>
@@ -91,7 +91,7 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/food-menu.PNG" alt="Project" />
+                  <img src="/assets/food-menu.webp" alt="Project" />
                 </div>
                 <div className="portfolio-text">
                   <h3>Food Menu</h3>
@@ -102,7 +102,7 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/expense-tracker.PNG" alt="Project" />
+                  <img src="/assets/expense-tracker.webp" alt="Project" />
                 </div>
                 <div className="portfolio-text">
                   <h3>Product List Cart</h3>
