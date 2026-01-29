@@ -102,11 +102,11 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/productlist.PNG" alt="Project" />
+                  <img src="/assets/expense-tracker.PNG" alt="Project" />
                 </div>
                 <div className="portfolio-text">
                   <h3>Product List Cart</h3>
-                  <a className="btn" href="https://product-list-with-cart-main-gamma.vercel.app/" target="_blank" rel="noopener noreferrer">+</a>
+                  <a className="btn" href="https://personal-finance-tracker-three-eta.vercel.app/" target="_blank" rel="noopener noreferrer">+</a>
                 </div>
               </div>
             </div>
