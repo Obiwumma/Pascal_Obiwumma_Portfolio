@@ -6,7 +6,7 @@ import { BsTypescript } from "react-icons/bs";
 import { RiNextjsFill } from "react-icons/ri";
 import { RiSupabaseFill } from "react-icons/ri";
 import { RiTailwindCssFill } from "react-icons/ri";
-import { DiNodejs } from "react-icons/di";
+import { FaNode } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 import { SiHostinger } from "react-icons/si";
 
@@ -47,7 +47,7 @@ function SkillSet() {
         <h6 className="mt-2">TAILWINDCSS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <DiNodejs size={58} />
+        <FaNode size={44} />
         <h6 className="mt-0">NODEJS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
