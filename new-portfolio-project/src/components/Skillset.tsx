@@ -15,35 +15,35 @@ function SkillSet() {
     <div className="row p-2 text-center">
       <h3>TECH STACK</h3>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <TiHtml5 size={48} />
+        <TiHtml5 size={36} />
         <h6 className="mt-2">HTML</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <IoLogoCss3 size={48} />
+        <IoLogoCss3 size={36} />
         <h6 className="mt-2">CSS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <IoLogoJavascript size={48} />
+        <IoLogoJavascript size={36} />
         <h6 className="mt-2">JAVASCRIPT</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <BsTypescript size={48} />
+        <BsTypescript size={36} />
         <h6 className="mt-2">TYPESCRIPT</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <FaReact size={48} />
+        <FaReact size={36} />
         <h6 className="mt-2">REACTJS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <RiNextjsFill size={48} />
+        <RiNextjsFill size={36} />
         <h6 className="mt-2">NEXTJS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <RiSupabaseFill size={48} />
+        <RiSupabaseFill size={36} />
         <h6 className="mt-2">SUPABASE</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <RiTailwindCssFill size={48} />
+        <RiTailwindCssFill size={36} />
         <h6 className="mt-2">TAILWINDCSS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
@@ -51,11 +51,11 @@ function SkillSet() {
         <h6 className="mt-0">NODEJS</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <FaGitAlt size={48} />
+        <FaGitAlt size={36} />
         <h6 className="mt-2">GIT</h6>
       </div>
       <div className="col-6 col-md-4 col-lg-3 mb-4">
-        <SiHostinger size={48} />
+        <SiHostinger size={36} />
         <h6 className="mt-2">HOSTINGER</h6>
       </div>
     </div>
