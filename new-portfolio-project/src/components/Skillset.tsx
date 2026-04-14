@@ -1,11 +1,11 @@
 
 
-function Skillset() {
+function SkillSet() {
   return (
-    <div>
-      
+    <div className="">
+      <div></div>
     </div>
   )
 }
 
-export default Skillset
+export default SkillSet

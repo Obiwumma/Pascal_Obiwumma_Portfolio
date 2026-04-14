@@ -1,5 +1,6 @@
 import React from "react";
 import SkillBar from "./SkillBar.js";
+import SkillSet from "./Skillset.js";
 
 const About = () => {
 
@@ -31,6 +32,7 @@ const About = () => {
                   </p>
                 </div>
                 <div className="skills">
+                  <SkillSet/>
                   <SkillBar name="HTML" level={90} color="#1DB8D0" />
                   <SkillBar name="CSS" level={85} color="#0EA5E9" />
                   <SkillBar name="JavaScript" level={80} color="#3B82F6" />
