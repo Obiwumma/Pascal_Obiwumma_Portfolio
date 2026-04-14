@@ -14,11 +14,11 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-1 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/sidehustle.webp" alt="Project" />
+                  <img src="/assets/skinsobeautiful.PNG" alt="Project" />
                 </div>
                 <div className="portfolio-text">
-                  <h3>Side Hustle Clone</h3>
-                  <a className="btn" href="https://side-hustle-clone.netlify.app/" target="_blank" rel="noopener noreferrer">+</a>
+                  <h3>SKINSOBEAUTIFUL</h3>
+                  <a className="btn" href="https://skinsobeautifulofficial.com/" target="_blank" rel="noopener noreferrer">+</a>
                 </div>
               </div>
             </div>
