@@ -69,11 +69,11 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/video-BG.PNG" alt="Project" />
+                  <img src="/assets/AI-predictor.PNG" alt="Project" />
                 </div>
                 <div className="portfolio-text">
-                  <h3>Video Background</h3>
-                  <a className="btn" href="https://videoball.netlify.app/" target="_blank" rel="noopener noreferrer">+</a>
+                  <h3>Admission Prediction System</h3>
+                  <a className="btn" href="https://admission-prediction-system-xai-ju4injjp2tapp34gp7vu5qb.streamlit.app/" target="_blank" rel="noopener noreferrer">+</a>
                 </div>
               </div>
             </div>
