@@ -58,11 +58,11 @@ const Projects = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 " data-aos="fade-up" >
               <div className="portfolio-wrap">
                 <div className="portfolio-img">
-                  <img src="/assets/questionairre.PNG" alt="Project" />
+                  <img src="/assets/spotify-clone.PNG" alt="Project" />
                 </div>
                 <div className="portfolio-text">
-                  <h3>Questionnaire</h3>
-                  <a className="btn" href="https://querstionsite.netlify.app/" target="_blank" rel="noopener noreferrer">+</a>
+                  <h3>Spotify Clone</h3>
+                  <a className="btn" href="https://react-spotify-kohl.vercel.app/" target="_blank" rel="noopener noreferrer">+</a>
                 </div>
               </div>
             </div>
